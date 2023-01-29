@@ -29,8 +29,12 @@
 
 
 ## 💪 Top Languajes: 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloSanchez95&langs_count=6&layout=compact)  
-  
+<p align="center">
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloSanchez95&langs_count=6&layout=compact" />
+</p>
+
 ##  📈 GitHub Stats: 
- ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCamiloSanchez95&hide=contribs,prs&show_icons=true)
+<p align="center">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JuanCamiloSanchez95&langs_count=6&layout=compact" />
+</p>
 
