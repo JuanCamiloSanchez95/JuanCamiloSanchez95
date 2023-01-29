@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I´m Juan Sanchez 👋
 
-<!--
-**JuanCamiloSanchez95/JuanCamiloSanchez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I´m a developer from Colombia
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Fagor Electronica Colombia
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: jucasapa9504@gmail.com
+- 😉 Phylosophy: Unleash curiosity to power up knowledge 
+- ⚡ Fun fact: I love adrenaline and doing all new kind of challenges that makes me grow 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me:
+[shoniisra](https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/)
+[shoniisra](https://www.instagram.com/dajurino/)
