@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I love adrenaline and doing all new kind of challenges that makes me grow 
 
 ## Connect with me:
-[linkedIn](https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/)
-[Instagram](https://www.instagram.com/dajurino/)
+<a href="https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/"><img align="left" src="https://raw.githubusercontent.com/JuanCamiloSanchez95/JuanCamiloSanchez95/bbd73cc447aedd4ceaf430f37dbe482ed45062af/img/linkedin.svg" alt="Juan | LinkedIn" width="25px"/></a>
+<a href="https://www.instagram.com/dajurino/"><img align="left" src="https://raw.githubusercontent.com/JuanCamiloSanchez95/JuanCamiloSanchez95/bbd73cc447aedd4ceaf430f37dbe482ed45062af/img/instagram.svg" alt="Juan | LinkedIn" width="25px"/></a>
 
-
+</br>
 
 ##  Technical Skills: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
