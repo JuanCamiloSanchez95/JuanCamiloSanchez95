@@ -1,8 +1,10 @@
-# Hi there, I´m Juan Sanchez 👋
+<p align="center">
+  <h1 align="center"> Hi there, I´m Juan Sanchez 👋</h1>
+  <h3 align="center"> I´m a developer from Colombia </h3>
+</p>
 
-## I´m a developer from Colombia
 
-- 🔭 I’m currently working on Fagor Electronica Colombia
+- 🔭 I’m currently working on: Fagor Electronica Colombia and Personal Projects
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jucasapa9504@gmail.com
 - 😉 Phylosophy: Unleash curiosity to power up knowledge 
@@ -10,5 +12,26 @@
 
 
 ## Connect with me:
-[shoniisra](https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/)
-[shoniisra](https://www.instagram.com/dajurino/)
+[linkedIn](https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/)
+[Instagram](https://www.instagram.com/dajurino/)
+
+
+
+##  Technical Skills: 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## Languajes: 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloSanchez95&langs_count=6&layout=compact)  
+  
+##  Stats: 
+ ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCamiloSanchez95&hide=contribs,prs&show_icons=true)
+
