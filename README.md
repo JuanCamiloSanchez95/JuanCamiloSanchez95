@@ -10,7 +10,6 @@
 - 😉 Phylosophy: Unleash curiosity to power up knowledge 
 - ⚡ Fun fact: I love adrenaline and doing all new kind of challenges that makes me grow 
 
-
 ## Connect with me:
 [linkedIn](https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/)
 [Instagram](https://www.instagram.com/dajurino/)
