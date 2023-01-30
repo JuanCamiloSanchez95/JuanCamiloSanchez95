@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on: Fagor Electronica Colombia and Personal Projects
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jucasapa9504@gmail.com
-- 😉 Phylosophy: Unleash curiosity to power up knowledge 
+- 😉 Phylosophy: Unleash curiosity to power up creativity 
 - ⚡ Fun fact: I love adrenaline and doing all new kind of challenges that makes me grow 
 
 ## Connect with me:
