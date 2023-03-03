@@ -30,11 +30,11 @@
 
 ## 💪 Top Languajes: 
 <p align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloSanchez95&langs_count=6&layout=compact" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajudev&langs_count=6&layout=compact" />
 </p>
 
 ##  📈 GitHub Stats: 
 <p align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JuanCamiloSanchez95&langs_count=6&layout=compact" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=dajudev&langs_count=6&layout=compact" />
 </p>
 
