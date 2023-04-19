@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jucasapa9504@gmail.com
 - 😉 Phylosophy: Unleash curiosity to power up creativity 
-- ⚡ Fun fact: I love adrenaline and doing all new kind of challenges that makes me grow 
+- ⚡ Fun fact: I love adrenaline and doing all kind of new challenges
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/juan-camilo-sanch%C3%A9z-pardo-8115b5212/"><img align="left" src="https://raw.githubusercontent.com/JuanCamiloSanchez95/JuanCamiloSanchez95/bbd73cc447aedd4ceaf430f37dbe482ed45062af/img/linkedin.svg" alt="Juan | LinkedIn" width="25px"/></a>
