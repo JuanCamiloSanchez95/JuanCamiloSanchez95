@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hi there, I´m Juan Sanchez 👋</h1>
-  <h3 align="center"> I´m a developer from Colombia </h3>
+  <h3 align="center"> I´m a Full Stack Developer </h3>
 </p>
 
 
